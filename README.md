@@ -8,7 +8,7 @@
 * edge_detection, it detects image's edge.
 
 
-##Dependence
+##Dependency
 
 * PIL
 * cv
